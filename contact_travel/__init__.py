@@ -1,0 +1,1 @@
+from . import models  # Importe le package models pour charger les modèles définis
