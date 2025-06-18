@@ -1,7 +1,10 @@
+<!--
 - Création de la vue formulaire pour saisir et modifier les voyages
 - Création de la vue liste pour afficher les voyages dans un tableau
 - Ajout d’une action pour accéder facilement aux voyages depuis le menu
 - Facilite la gestion des voyages directement depuis l’interface Odoo
+-->
+
 <odoo>
   <!-- Vue formulaire du modèle Voyage -->
   <record id="view_voyage_form" model="ir.ui.view">
