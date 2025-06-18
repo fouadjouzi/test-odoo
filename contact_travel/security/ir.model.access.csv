@@ -1,0 +1,3 @@
+# Ce fichier définit les permissions d'accès pour le modèle contact.travel.voyage
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_voyage,access_voyage,model_contact_travel_voyage,,1,1,1,1
